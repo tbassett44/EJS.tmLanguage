@@ -4,7 +4,7 @@
 <dict>
 	<key>fileTypes</key>
 	<array>
-		<string>ejs</string>
+		<string>templates</string>
 	</array>
 	<key>firstLineMatch</key>
 	<string>&lt;!(?i:DOCTYPE)|&lt;(?i:html)|&lt;\?(?i:php)</string>
